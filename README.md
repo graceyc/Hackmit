@@ -8,3 +8,11 @@ In a fast-paced world where efficiency is the key, we want to create a solution 
 1. Our agent can directly handle emails that come with an attached document. These could be work contracts, mit media release forms, or any other kind of forms.
 2. It will automatically fills in all the blank fields, including names, addresses, current dates, and signatures. Basically anything the form requires. 
 3. After a few seconds later, you can save the completed form by just one click.
+
+To use this website, first download the required packages
+
+Then, run the following command
+
+streamlit run front.py
+
+This will lead you to the website.
