@@ -13,6 +13,6 @@ To use this website, first download the required packages
 
 Then, run the following command
 
-streamlit run front.py
-
+`streamlit run front.py
+`
 This will lead you to the website.
